@@ -1,5 +1,5 @@
 # Python_Fundamental_Tasks
-Fundamental Python Tasks via Coursera IBM Data Science Professional Certificate.
+Python for Data Science, AI and Development. Fundamental Python Tasks (Coursera IBM Data Science Professional Certificat).
 
 Python Basics 1.1 - 1.2 (Types, Expressions & Variables and String Operations) = The basics of Python and begins by exploring some of the different data types such as integers, real numbers, and strings. Learn how to use expressions in mathematical operations, store values in variables, and the many different ways to manipulate strings. 
 - Demonstrate an understanding of types in Python by converting or casting data types such as strings, floats, and integers.
