@@ -35,7 +35,7 @@ Working with Data in Python 4.1 - 4.3 (Reading & Writing Files with Open, Pandas
 - Use NumPy to create one-dimensional and two-dimensional arrays.
 - Write and save files in Python.
 
-API'S and Data Collection 5.1 - 5.2 (Simple APIs and Rest APIs, Webscraping & Working with Files) = Delves into the unique ways to collect data by the use of APIs and webscraping. It further explores data collection by explaining how to read and collect data when dealing with different file formats.
+API'S and Data Collection 5.1 - 5.4 (Simple APIs and Rest APIs, Webscraping & Working with Files) = Delves into the unique ways to collect data by the use of APIs and webscraping. It further explores data collection by explaining how to read and collect data when dealing with different file formats.
 - Explain the use of the HTTP protocol using the Requests Library method.
 - Describe how the URL Request Response HTTP protocol works.
 - Learn to apply simple, open-source APIs.
