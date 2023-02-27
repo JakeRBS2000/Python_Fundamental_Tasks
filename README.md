@@ -24,8 +24,8 @@ Python Programming Fundamentals 3.1 - 3.4 (Conditions & Branching, Loops, Functi
 - Use exception handling in Python.
 - Explain what functions do.
 - Build a function using inputs and outputs.
-- Explain how for loops and while loops work
-- Work with condition statements in Python, including operators and branching
+- Explain how for loops and while loops work.
+- Work with condition statements in Python, including operators and branching.
 - Create and use loop statements in Python.
 
 Working with Data in Python 4.1 - 4.3 + Pandas Lab Practice (Reading & Writing Files with Open, Pandas and Numpy in Python) = Basics of working with data in Python and begins the path with learning how to read and write files. Uncovering the best Python libraries that will aid in data manipulation and mathematical operations.
