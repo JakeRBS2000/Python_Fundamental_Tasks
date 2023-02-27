@@ -28,14 +28,14 @@ Python Programming Fundamentals 3.1 - 3.4 (Conditions & Branching, Loops, Functi
 - Work with condition statements in Python, including operators and branching
 - Create and use loop statements in Python.
 
-Working with Data in Python 4.1 - 4.3 (Reading & Writing Files with Open, Pandas and Numpy in Python) = Basics of working with data in Python and begins the path with learning how to read and write files. Uncovering the best Python libraries that will aid in data manipulation and mathematical operations.
+Working with Data in Python 4.1 - 4.3 + Pandas Lab Practice (Reading & Writing Files with Open, Pandas and Numpy in Python) = Basics of working with data in Python and begins the path with learning how to read and write files. Uncovering the best Python libraries that will aid in data manipulation and mathematical operations.
 - Explain how Pandas use data frames.
 - Use Pandas for library and data analysis by using commands.
 - Read text files using Python libraries including open and with.
 - Use NumPy to create one-dimensional and two-dimensional arrays.
 - Write and save files in Python.
 
-API'S and Data Collection 5.1 - 5.4 (Simple APIs and Rest APIs, Webscraping & Working with Files) = Delves into the unique ways to collect data by the use of APIs and webscraping. It further explores data collection by explaining how to read and collect data when dealing with different file formats.
+API'S and Data Collection 5.1 - 5.4 + Webscraping Review Lab (Simple APIs and Rest APIs, Webscraping & Working with Files) = Delves into the unique ways to collect data by the use of APIs and webscraping. It further explores data collection by explaining how to read and collect data when dealing with different file formats.
 - Explain the use of the HTTP protocol using the Requests Library method.
 - Describe how the URL Request Response HTTP protocol works.
 - Learn to apply simple, open-source APIs.
